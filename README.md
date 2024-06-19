@@ -17,4 +17,4 @@ So when the user increment or decrement the products, then the corresponding Tot
 
 ## Demo
 
-https://reactformikvalidationlibrarymgmt.netlify.app/
+https://reactreduxshoppingkart.netlify.app/
