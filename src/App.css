@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/022/085/461/large_2x/supermarket-grocery-shopping-cart-blurred-background-ai-generated-image-photo.jpg);
+}
+
+.card {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background: rgb(0, 0, 0, 0.8);
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+img {
+  padding: 3%;
+}
+
+.subtotal {
+  border-top: lightgray 1px solid;
+}
+
+.cart-total {
+  text-align: center;
+  margin-top: 25px;
+
+  font-size: 32px;
+  font-weight: bold;
+  font-variant: small-caps;
+}
